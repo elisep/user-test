@@ -1,3 +1,8 @@
+.main {
+  background: transparent url(site.png) no-repeat top center;
+  min-height: 3850px;
+}
+
 h1 {
   color : #444;
   font-family: sans-serif;
